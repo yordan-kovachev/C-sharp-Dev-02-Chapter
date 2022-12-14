@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jordan Smith\\Documents\\C# Programming Projects\\02 Chapter\\01 Task\\01 Task.csproj": {}
+    "C:\\Users\\Jordan Smith\\Documents\\C# Programming Projects\\02 Chapter\\02 Task\\02 Task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jordan Smith\\Documents\\C# Programming Projects\\02 Chapter\\01 Task\\01 Task.csproj": {
+    "C:\\Users\\Jordan Smith\\Documents\\C# Programming Projects\\02 Chapter\\02 Task\\02 Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jordan Smith\\Documents\\C# Programming Projects\\02 Chapter\\01 Task\\01 Task.csproj",
-        "projectName": "01 Task",
-        "projectPath": "C:\\Users\\Jordan Smith\\Documents\\C# Programming Projects\\02 Chapter\\01 Task\\01 Task.csproj",
+        "projectUniqueName": "C:\\Users\\Jordan Smith\\Documents\\C# Programming Projects\\02 Chapter\\02 Task\\02 Task.csproj",
+        "projectName": "03 Task",
+        "projectPath": "C:\\Users\\Jordan Smith\\Documents\\C# Programming Projects\\02 Chapter\\02 Task\\02 Task.csproj",
         "packagesPath": "C:\\Users\\Jordan Smith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jordan Smith\\Documents\\C# Programming Projects\\02 Chapter\\01 Task\\obj\\",
+        "outputPath": "C:\\Users\\Jordan Smith\\Documents\\C# Programming Projects\\02 Chapter\\03 Task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jordan Smith\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,30 +50,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.12, 6.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.12, 6.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.12, 6.0.12]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.12, 6.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
