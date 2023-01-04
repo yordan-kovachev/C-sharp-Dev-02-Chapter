@@ -5,6 +5,12 @@
 //The word “Hexadecimal” means sixteen because this type of digital numbering 
 //    system uses 16 different digits from 0-to-9, and A-to-F. 
 //    Hexadecimal Numbers group binary numbers into sets of four digits.
+// https://www.w3resource.com/csharp-exercises/for-loop/csharp-for-loop-exercise-55.php
+// https://www.includehelp.com/dot-net/convert-a-decimal-number-into-a-hexadecimal-number.aspx
+// https://stackoverflow.com/questions/17524673/understanding-the-modulus-operator
+// https://stackoverflow.com/questions/64488246/ideal-way-to-test-for-practical-floating-point-equality-in-c-sharp
+
+
 
 namespace _04_Task
 {
