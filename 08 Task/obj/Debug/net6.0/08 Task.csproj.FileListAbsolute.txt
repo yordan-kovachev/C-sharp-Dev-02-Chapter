@@ -1,0 +1,15 @@
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\08 Task\obj\Debug\net6.0\08 Task.csproj.AssemblyReference.cache
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\08 Task\obj\Debug\net6.0\08 Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\08 Task\obj\Debug\net6.0\08 Task.AssemblyInfoInputs.cache
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\08 Task\obj\Debug\net6.0\08 Task.AssemblyInfo.cs
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\08 Task\obj\Debug\net6.0\08 Task.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\08 Task\bin\Debug\net6.0\08 Task.exe
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\08 Task\bin\Debug\net6.0\08 Task.deps.json
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\08 Task\bin\Debug\net6.0\08 Task.runtimeconfig.json
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\08 Task\bin\Debug\net6.0\08 Task.dll
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\08 Task\bin\Debug\net6.0\08 Task.pdb
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\08 Task\obj\Debug\net6.0\08 Task.dll
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\08 Task\obj\Debug\net6.0\refint\08 Task.dll
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\08 Task\obj\Debug\net6.0\08 Task.pdb
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\08 Task\obj\Debug\net6.0\08 Task.genruntimeconfig.cache
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\08 Task\obj\Debug\net6.0\ref\08 Task.dll
