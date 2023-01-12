@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PZcccmJBxzopu4hERexKMfkQHmcxt/YOJXm/60hmKqZKo3i5/PAazF6ef9Zy4BCgHEswdbcH7VF4nZpGKgp1lw==",
+  "dgSpecHash": "M+8XAVjLsNYGB5upL/V2sQjpRJj/hz/RqVM2O5hKBznaa5/uka34roysaE0y2LuZb3ScxFYjqxBY8Dqkw/9kYg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jordan Smith\\Documents\\C# Programming Projects\\02 Chapter\\01 Task\\01 Task.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Jordan Smith\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\Jordan Smith\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\Jordan Smith\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\Jordan Smith\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
