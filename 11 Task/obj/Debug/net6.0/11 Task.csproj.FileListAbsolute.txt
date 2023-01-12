@@ -1,0 +1,15 @@
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\11 Task\bin\Debug\net6.0\11 Task.exe
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\11 Task\bin\Debug\net6.0\11 Task.deps.json
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\11 Task\bin\Debug\net6.0\11 Task.runtimeconfig.json
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\11 Task\bin\Debug\net6.0\11 Task.dll
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\11 Task\bin\Debug\net6.0\11 Task.pdb
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\11 Task\obj\Debug\net6.0\11 Task.csproj.AssemblyReference.cache
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\11 Task\obj\Debug\net6.0\11 Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\11 Task\obj\Debug\net6.0\11 Task.AssemblyInfoInputs.cache
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\11 Task\obj\Debug\net6.0\11 Task.AssemblyInfo.cs
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\11 Task\obj\Debug\net6.0\11 Task.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\11 Task\obj\Debug\net6.0\11 Task.dll
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\11 Task\obj\Debug\net6.0\refint\11 Task.dll
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\11 Task\obj\Debug\net6.0\11 Task.pdb
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\11 Task\obj\Debug\net6.0\11 Task.genruntimeconfig.cache
+C:\Users\Jordan Smith\Documents\C# Programming Projects\02 Chapter\11 Task\obj\Debug\net6.0\ref\11 Task.dll
